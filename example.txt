@@ -1,0 +1,1 @@
+Hello! This is lab2 of Devops and the topic is Git.
