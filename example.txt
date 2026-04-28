@@ -1,1 +1,1 @@
-Hello! This is lab2 of Devops and the topic is Git.
+Hello! This is lab2 of Devops and the topic is Git. Git is a distributed version control system(VCS).
